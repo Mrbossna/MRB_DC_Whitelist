@@ -1,10 +1,12 @@
 {
+  "version": "1.0.0",
   "ip": [
+
     {
-      "name": "Me",
-      "id": "123.253.61.55",
-      "keys": "MRB:GS5112T",
-      "version": "1.1.7"
-    },
+      "name": "SS-DEV",
+      "resource": "MRB_DC_Whitelist",
+      "id": "110.169.157.212"
+    }
+
   ]
 }

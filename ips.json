@@ -5,7 +5,32 @@
     {
       "name": "SS-DEV",
       "resource": "MRB_DC_Whitelist",
-      "id": "110.169.157.212"
+      "id": "110.169.127.212"
+    },
+    {
+      "name": "SS-DEV",
+      "resource": "MRB_DC_Whitelist",
+      "id": "110.169.117.212"
+    },
+    {
+      "name": "SS-DEV",
+      "resource": "MRB_DC_Whitelist",
+      "id": "110.169.447.212"
+    },
+    {
+      "name": "SS-DEV",
+      "resource": "MRB_DC_Whitlist",
+      "id": "110.119.157.212"
+    },
+    {
+      "name": "SS-DEV",
+      "resource": "MRB_DC_Whitelis",
+      "id": "110.14.157.212"
+    },
+    {
+      "name": "SS-DEV",
+      "resource": "MRB_Whitelist",
+      "id": "110.129.157.212"
     }
 
   ]

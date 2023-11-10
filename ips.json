@@ -6,7 +6,11 @@
       "name": "SS-DEV",
       "resource": "MRB_DC_Whitelist",
       "id": "110.169.157.212"
+    },
+     {
+      "name": "SS-DEV",
+      "resource": "MRB_DC_Whitelist",
+      "id": "154.215.14.93"
     }
-    
   ]
 }
